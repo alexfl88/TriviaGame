@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.text-muted{
+    color: blue;
+    padding: 15px;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
